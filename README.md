@@ -18,3 +18,6 @@ counter to book ticket and check other details.
 ## Who can use this application in real life? :
 Anyone can use this application who wants to book an airline ticket or wants to check any
 other details regarding the same.
+## Glimpse of Project
+
+![](https://github.com/swikriti04/Airline-Management-System/blob/master/J1.png)
