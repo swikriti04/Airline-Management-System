@@ -21,3 +21,17 @@ other details regarding the same.
 ## Glimpse of Project
 
 ![](https://github.com/swikriti04/Airline-Management-System/blob/master/J1.png)
+
+![](https://github.com/swikriti04/Airline-Management-System/blob/master/J2.png)
+
+![](https://github.com/swikriti04/Airline-Management-System/blob/master/J3.png)
+
+![](https://github.com/swikriti04/Airline-Management-System/blob/master/J4.png)
+
+![](https://github.com/swikriti04/Airline-Management-System/blob/master/J5.png)
+
+![](https://github.com/swikriti04/Airline-Management-System/blob/master/J6.png)
+
+![](https://github.com/swikriti04/Airline-Management-System/blob/master/J7.png)
+
+![](https://github.com/swikriti04/Airline-Management-System/blob/master/J8.png)
