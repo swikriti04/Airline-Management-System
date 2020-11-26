@@ -1,0 +1,9 @@
+Instruction to run:
+
+Open Project in Netbeans
+To run a class Press shift + F6
+It needs MySQL database to show data.
+
+I have put it on github with Screen shots
+pls. check:
+https://github.com/swikriti04/Airline-Management-System
